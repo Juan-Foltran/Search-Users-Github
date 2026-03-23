@@ -19,7 +19,7 @@ Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub
 Navegue até a pasta do projeto e instale as dependências necessárias:
 
 ```bash
-cd search-usersGithub
+cd search-Users-Github
 npm install
 ```
 
