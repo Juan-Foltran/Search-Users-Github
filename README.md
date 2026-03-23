@@ -4,7 +4,7 @@ Uma API construída com **Node.js**, **Express** e **TypeScript** para buscar in
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub e retornar informações estruturadas de usuários. A arquitetura foi desenhada separando as responsabilidades para manter o código limpo, tipado e escalável.
+Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub e retornar informações estruturadas de usuários. 
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
