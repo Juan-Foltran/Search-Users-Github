@@ -11,13 +11,8 @@ Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub
 - **Node.js**
 - **Express**: Framework minimalista para lidar com requisições HTTP.
 - **TypeScript**: Para adicionar tipagem estática e maior confiabilidade ao código.
-- **tsx**: Utilizado para executar e monitorar o TypeScript diretamente no ambiente de desenvolvimento.
 
 ## 🚀 Como Executar Localmente
-
-### Pré-requisitos
-
-Certifique-se de ter o **[Node.js](https://nodejs.org/pt-br)** instalado em sua máquina.
 
 ### 1️⃣ Instalação e Preparação
 
