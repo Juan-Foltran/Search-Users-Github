@@ -4,16 +4,15 @@ Uma API construída com **Node.js**, **Express** e **TypeScript** para buscar in
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub e retornar informações estruturadas de usuários. A arquitetura foi desenhada separando as responsabilidades para manter o código limpo, tipado e escalável.
+Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub e retornar informações estruturadas de usuários.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-- **Node.js**
-- **Express**: Framework minimalista para lidar com requisições HTTP.
-- **TypeScript**: Para adicionar tipagem estática e maior confiabilidade ao código.
-- **tsx**: Utilizado para executar e monitorar o TypeScript diretamente no ambiente de desenvolvimento.
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-## 🚀 Como Executar Localmente
+## 🚀 Como Executar
 
 ### 1️⃣ Instalação e Preparação
 
@@ -41,15 +40,13 @@ npm run build
 npm start
 ```
 
-## 🎯 Scripts Disponíveis (`package.json`)
+## 🎯 Scripts Disponíveis
 
 - `npm run dev`: Inicia o servidor com monitoramento de alterações (ambiente de dev).
 - `npm run build`: Compila o código `.ts` para `.js` (Pasta `dist/`).
 - `npm start`: Roda a versão de produção gerada na pasta `dist/`.
 
 ## API Endpoint 📍
-
-#### Corpo da Requisição (Body):
 
 | Método | Rota                   | Descrição                                                                                               |
 | :----- | :--------------------- | :------------------------------------------------------------------------------------------------------ |
