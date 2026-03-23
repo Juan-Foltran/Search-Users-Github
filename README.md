@@ -4,13 +4,14 @@ Uma API construída com **Node.js**, **Express** e **TypeScript** para buscar in
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub e retornar informações estruturadas de usuários. 
+Este projeto consiste em uma API desenvolvida para interagir com a API do GitHub e retornar informações estruturadas de usuários. A arquitetura foi desenhada separando as responsabilidades para manter o código limpo, tipado e escalável.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- **Node.js**
+- **Express**: Framework minimalista para lidar com requisições HTTP.
+- **TypeScript**: Para adicionar tipagem estática e maior confiabilidade ao código.
+- **tsx**: Utilizado para executar e monitorar o TypeScript diretamente no ambiente de desenvolvimento.
 
 ## 🚀 Como Executar Localmente
 
